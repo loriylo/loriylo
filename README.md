@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning computer vision
 - 💞️ I’m looking to collaborate on computer vision
 - 📫 How to reach me: 
-     * ![email](carolinecode.lo@gmail.com) 
-     * ![my blog](https://carolinecodeai.blogspot.com/)
-     * ![my linkin](https://www.linkedin.com/in/lori-lo-2917b7217/)
+     * [email](carolinecode.lo@gmail.com) 
+     * [my blog](https://carolinecodeai.blogspot.com/)
+     * [my linkin](https://www.linkedin.com/in/lori-lo-2917b7217/)
 
 <!---
 loriylo/loriylo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
