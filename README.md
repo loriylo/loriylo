@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
      * [email](carolinecode.lo@gmail.com) 
      * [my blog](https://carolinecodeai.blogspot.com/)
-     * [my linkin](https://www.linkedin.com/in/lori-lo-2917b7217/)
+     * [my linkein](https://www.linkedin.com/in/lori-lo-2917b7217/)
 
 <!---
 loriylo/loriylo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
