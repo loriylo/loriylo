@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @loriylo
 - 👀 I’m interested in computer vision, NLP, and time series
 - 🌱 I’m currently learning computer vision
-- 💞️ I’m looking to collaborate on computer vision
 - 📫 How to reach me: 
      * [email](carolinecode.lo@gmail.com) 
      * [my blog](https://carolinecodeai.blogspot.com/)
